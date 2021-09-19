@@ -24,7 +24,7 @@
   width:312px;
   height:43px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:20px;
@@ -43,7 +43,7 @@
   width:312px;
   height:43px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:20px;
@@ -72,7 +72,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:20px;
@@ -85,7 +85,7 @@
   width:312px;
   height:43px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:20px;
@@ -114,7 +114,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:20px;
@@ -165,7 +165,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -179,7 +179,7 @@
   width:87px;
   height:25px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -204,7 +204,7 @@
   width:234px;
   height:34px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -223,7 +223,7 @@
   width:234px;
   height:34px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -252,7 +252,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -266,7 +266,7 @@
   width:234px;
   height:34px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -296,7 +296,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -323,7 +323,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:18px;
@@ -337,7 +337,7 @@
   width:161px;
   height:23px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:18px;
@@ -369,7 +369,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:18px;
@@ -383,7 +383,7 @@
   width:174px;
   height:23px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:18px;
@@ -1327,7 +1327,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -1341,7 +1341,7 @@
   width:225px;
   height:25px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -1855,7 +1855,7 @@
   width:137px;
   height:23px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -1917,7 +1917,7 @@
   width:137px;
   height:23px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:18px;
@@ -1973,7 +1973,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -1987,7 +1987,7 @@
   width:133px;
   height:25px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -2079,7 +2079,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -2093,7 +2093,7 @@
   width:225px;
   height:25px;
   display:flex;
-  font-family:'Merriweather Bold Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Bold Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:700;
   font-style:italic;
   font-size:20px;
@@ -2556,7 +2556,7 @@
   width:234px;
   height:34px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2575,7 +2575,7 @@
   width:234px;
   height:34px;
   padding:2px 2px 2px 2px;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2604,7 +2604,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2618,7 +2618,7 @@
   width:234px;
   height:34px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2648,7 +2648,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:18px;

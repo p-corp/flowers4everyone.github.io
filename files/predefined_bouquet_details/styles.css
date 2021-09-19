@@ -107,7 +107,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -120,7 +120,7 @@
   width:105px;
   height:28px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -151,7 +151,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -160,12 +160,12 @@
 #u357 {
   border-width:0px;
   position:absolute;
-  left:33px;
-  top:553px;
+  left:19px;
+  top:637px;
   width:246px;
   height:140px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -430,7 +430,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -444,7 +444,7 @@
   width:94px;
   height:28px;
   display:flex;
-  font-family:'Merriweather Italic', 'Merriweather', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:22px;
@@ -485,8 +485,8 @@
 #u362 {
   border-width:0px;
   position:absolute;
-  left:33px;
-  top:683px;
+  left:19px;
+  top:572px;
   width:253px;
   height:29px;
   display:flex;
@@ -531,8 +531,8 @@
 #u363 {
   border-width:0px;
   position:absolute;
-  left:33px;
-  top:706px;
+  left:19px;
+  top:595px;
   width:253px;
   height:29px;
   display:flex;
@@ -569,8 +569,8 @@
 #u364 {
   border-width:0px;
   position:absolute;
-  left:33px;
-  top:735px;
+  left:25px;
+  top:786px;
   width:386px;
   height:22px;
   display:flex;
@@ -1659,6 +1659,52 @@
   width:100%;
 }
 #u382_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u383_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:253px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Merriweather', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFF00;
+}
+#u383 {
+  border-width:0px;
+  position:absolute;
+  left:19px;
+  top:549px;
+  width:253px;
+  height:29px;
+  display:flex;
+  font-family:'Merriweather', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFF00;
+}
+#u383 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u383_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
